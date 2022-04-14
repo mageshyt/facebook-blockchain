@@ -2,9 +2,9 @@
 
 # dependencies
 /node_modules
-/studio
 /.pnp
 .pnp.js
+/smart_contract
 # testing
 /coverage
 
